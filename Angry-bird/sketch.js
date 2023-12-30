@@ -83,7 +83,8 @@ function draw(){
     reset();
    textSize(15) 
     //console.log(bird.body.position.x)
-   text("press enter to get another chance",400,20)
+   text("press space to try again",400,20)
+   text("Reload to start again",400,40)
     
 }
 
